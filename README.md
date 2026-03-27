@@ -18,8 +18,8 @@ This project demonstrates simulation-based learning and enables quantitative ana
 * CSV Data Logging System
 
 ## Demo
-Video: [Google Drive Link]
-Screenshots: [Add Images]
+Video: [Coming Soon..!]<br>
+Screenshots: [Coming Soon...!]
 
 ## Author
 Dr. Ayaz Muhammad Hanif  
