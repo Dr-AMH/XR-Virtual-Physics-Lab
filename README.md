@@ -1,7 +1,7 @@
 # XR Virtual Physics Lab: Simulation-Based Learning System
 An interactive simulation-based learning environment developed in Unity that enables users to manipulate gravitational parameters in real time and observe physical behavior. The system is designed to support experiential learning and conceptual understanding of fundamental physics principles.
 
-# Features
+__Features__
 * Real-time gravity manipulation using UI controls
 * Physics-based object interaction (Unity physics engine)
 * First-person exploratory environment
