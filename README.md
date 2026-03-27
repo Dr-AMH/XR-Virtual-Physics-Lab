@@ -16,3 +16,12 @@ This project demonstrates simulation-based learning and enables quantitative ana
 * C#
 * Physics Engine
 * CSV Data Logging System
+
+## Demo
+Video: [Google Drive Link]
+Screenshots: [Add Images]
+
+## Author
+Dr. Ayaz Muhammad Hanif  
+PhD (Design) | Assistant Professor  
+Researcher in XR, HCI, and Educational Technology
